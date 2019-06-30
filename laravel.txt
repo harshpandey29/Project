@@ -1,0 +1,5 @@
+download composer
+go on wamp64 -> www -> then
+
+composer create-project laravel/laravel laravel "5.1.*"
+download all the files of composer with 5.1 version
